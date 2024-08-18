@@ -1,0 +1,2 @@
+the value of number is 45
+we used fprint to write the above line.
